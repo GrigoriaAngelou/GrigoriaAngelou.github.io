@@ -27,7 +27,7 @@ In this section I will try to describe, as briefly as I can, the personal projec
 
 ### Global Life expectancy and Europian Analysis
 
-**Description:** In this project I use a dataset from https://ourworldindata.org/ which contains Life expectancy of all the countries for the years and Continents for the years 1543 to 2019. I am using jupyter Notebook to clean explore and visualize my dataset. I am also using IBM Watson Studio in order to make more interactive Dashboards.
+**Description:** In this project I use a dataset from https://ourworldindata.org/ which contains Life expectancy of all the countries for the years and Continents for the years 1543 to 2019. I am using jupyter Notebook to clean explore and visualize my dataset. I am also using IBM Watson Studio in order to make more interactive Dashboards. <br>
 **Link of the project:** [Global Life expectancy and Europian Analysis](https://grigoriaangelou.github.io/Global-and-Europian-Analysis-for-Life-expectancy/) <br>
 **Code:** [life expectancy dataset exploration.ipynb](https://github.com/GrigoriaAngelou/Global-and-Europian-Analysis-for-Life-expectancy/blob/main/life%20expectancy%20dataset%20exploration.ipynb) <br>
 **Technology:** Python, Pandas, Numpy, Matplotlib, IBM Watson Studio <br>
