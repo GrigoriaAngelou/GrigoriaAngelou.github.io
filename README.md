@@ -6,4 +6,12 @@ and recently I took a course for Data Analysis at Coursera.
 
 This is a repository to showcase my skills, track my progress in Data Analysis and share my personal projects.
 
+## Portfolio Projects
+In this section I will try to describe, as briefly as I can, the personal projects that I am doing in order to learn and master new skills in Data Analysis.
+
+### Amazon's Product Analysis for year 2019
+
+**Description:** The dataset was downloaded by https://www.kaggle.com/datasets/ and it contains 12 different csv files, each for every month's sales on Amazon for different products. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, save the results into a csv file for all the months together and finally visualization using different ways with Python and Tableau for an interactive dashboard. <br>
+**Link of the project:** https://grigoriaangelou.github.io/Sales-Analysis-Amazon-Products-year-2019/ <br>
+**Code:** 
 
