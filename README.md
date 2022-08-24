@@ -32,3 +32,7 @@ In this section I will try to describe, as briefly as I can, the personal projec
 **Code:** [life expectancy dataset exploration.ipynb](https://github.com/GrigoriaAngelou/Global-and-Europian-Analysis-for-Life-expectancy/blob/main/life%20expectancy%20dataset%20exploration.ipynb) <br>
 **Technology:** Python, Pandas, Numpy, Matplotlib, IBM Watson Studio <br>
 **IBM Watson Studio visualization:** [Dashboard](https://eu-de.dataplatform.cloud.ibm.com/dashboards/e3e012c6-b7ca-47e9-960f-8f2d00174e19/view/6035a5640cb923f14dd4f2e407902c017d32705ee3bb840584d67b490f332097f06e1393c87d4b538c160d67f0bd430898)
+
+## Contact
+LinkedIn: www.linkedin.com/in/grigoria-angelou
+E-mail: ritaaggelou@gmail.com
