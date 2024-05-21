@@ -2,12 +2,20 @@
 
 ## About
 Hi! I am Grigoria Angelou. I have a Master Degree in Statistics, a Bachelor in Mathematics,
-and recently I took a course for Data Analysis at Coursera.
+and I love answering questions. Therefore, I dive into the world of data analysis to fulfill my curiosity.
 
 This is a repository to showcase my skills, track my progress in Data Analysis and share my personal projects.
 
 ## Portfolio Projects
 In this section I will try to describe, as briefly as I can, the personal projects that I am doing in order to learn and master new skills in Data Analysis.
+
+### World University Rankings 2016-2024
+
+**Description:** The source of the the dataset is https://www.kaggle.com/datasets/ and it contains information about the universities around the globe and how those rank in many fields (teaching, research environment, research quality etc. and a total score which compare the universities in a total performance. In my analysis I use different methods and visualization to have a better understanding of the dataset and I use a Tableau Dashboard where you can interact and see where each university from different countries rank for the year 2024, track its general rank over the years, compare all the rankings of 2024 with the previous year's performance, check the gender distribution of the university, how many international students prefer it, and which are the top universities in the country that this university belongs. <br>
+**Link of the project:** [World University Rankings 2016-2024](https://grigoriaangelou.github.io/....) <br>
+**Code:** [Sales analysis - Cleaning the dataset.ipynb](https://github.com/GrigoriaAngelou/.................)  <br>
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib <br>
+**Tableau Vizzes:** [Which Universities are top in your Country?](https://public.tableau.com/views/WorldUniversityRank2016-2024/Dashboard2?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 ### Amazon's Product Analysis for year 2019
 
