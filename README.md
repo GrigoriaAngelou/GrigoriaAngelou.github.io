@@ -12,10 +12,27 @@ In this section I will try to describe, as briefly as I can, the personal projec
 ### World University Rankings 2016-2024
 
 **Description:** The source of the the dataset that is used in this project is from https://www.kaggle.com/datasets/ and contains information about universities around the globe and how those rank in many fields (teaching, research environment, research quality etc. and a total score which compare the universities in a total performance. In my analysis I use different methods and visualization to have a better understanding of the dataset and using a Tableau Dashboard where you can interact and see for each university for the year 2024 informations like its general rank over the years, all the rankings of 2024 compared with the previous year's performance, the gender distribution of the university, how many international students prefer it, and which are the top universities in the country that this university belongs. <br>
-**Link of the project:** [World University Rankings 2016-2024](https://grigoriaangelou.github.io/....) <br>
-**Code:** [Sales analysis - Cleaning the dataset.ipynb](https://github.com/GrigoriaAngelou/.................)  <br>
+**Link of the project:** .............. <br>
+**Code:** [world-university-rankings-2016-2024.ipynb](https://github.com/GrigoriaAngelou/World-University-Rankings-2016-2024/blob/c1639e242181bed7933dcb77992fc163d00a3c5d/world-university-rankings-2016-2024.ipynb) <br>
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib <br>
 **Tableau Vizzes:** [Which Universities are top in your Country?](https://public.tableau.com/views/WorldUniversityRank2016-2024/Dashboard2?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+### Online Shopping Analysis for 2019
+
+**Description:** The dataset that is used in this project is from https://www.kaggle.com/datasets and it has many information about customers transactions in an online shop. In our EDA we are answering questions like:
+<br>
+* How many female and male customers the shop has.
+* How many coupons are used for different discount types (10%, 20%, 30%).
+* How the average price performs for each month (max, min, mean and outliers.)
+* Which product is prefered from males/females.
+* How top 3 products of the shop perform for each month.
+<br>
+In general, we will try to derive online shopping trends and patterns for the customers that uses this platform to shop.
+
+**Link of the project:** ........ <br>
+**Code:** [sales analysis for Amazon products year 2019.ipynb](https://github.com/GrigoriaAngelou/Online-Shopping-Analysis-for-2019/blob/8ffb99dc835bc3044f91c487fb76b3dc9177bb99/online-shopping-eda-for-beginners.ipynb)
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib <br>
+**Tableau Vizzes:** ..........
 
 ### Amazon's Product Analysis for year 2019
 
