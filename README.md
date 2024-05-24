@@ -9,7 +9,7 @@ This is a repository to showcase my skills, track my progress in Data Analysis a
 ## Portfolio Projects
 In this section I will try to describe, as briefly as I can, the personal projects that I am doing in order to learn and master new skills in Data Analysis.
 
-### Online Shopping Analysis for 2019
+### Online Shopping Analysis, Customer Loyalty and Basket Analysis for 2019
 
 **Description:** The dataset that is used in this project is from https://www.kaggle.com/datasets and it has many information about customers transactions in an online shop. In our EDA we are answering questions like:
 <br>
