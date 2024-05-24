@@ -28,11 +28,13 @@ In this section I will try to describe, as briefly as I can, the personal projec
 * How top 3 products of the shop perform for each month.
 <br>
 In general, we will try to derive online shopping trends and patterns for the customers that uses this platform to shop.
+<br>
+In addition, we created a dashboard using Tableau Public were we made a customer loyalty and a market basket analysis.
 
 **Link of the project:** ........ <br>
 **Code:** [sales analysis for Amazon products year 2019.ipynb](https://github.com/GrigoriaAngelou/Online-Shopping-Analysis-for-2019/blob/8ffb99dc835bc3044f91c487fb76b3dc9177bb99/online-shopping-eda-for-beginners.ipynb)
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib <br>
-**Tableau Vizzes:** ..........
+**Tableau Vizzes:** [Customer Behavior with Market Basket Analysis](https://public.tableau.com/views/CustomerBehaviorAnalysis_17162956112340/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 ### Amazon's Product Analysis for year 2019
 
