@@ -31,7 +31,7 @@ In addition, we created a dashboard using Tableau Public were we made a customer
 ### World University Rankings 2016-2024
 
 **Description:** The source of the the dataset that is used in this project is from https://www.kaggle.com/datasets/ and contains information about universities around the globe and how those rank in many fields (teaching, research environment, research quality etc. and a total score which compare the universities in a total performance. In my analysis I use different methods and visualization to have a better understanding of the dataset and using a Tableau Dashboard where you can interact and see for each university for the year 2024 informations like its general rank over the years, all the rankings of 2024 compared with the previous year's performance, the gender distribution of the university, how many international students prefer it, and which are the top universities in the country that this university belongs. <br>
-**Link of the project:** .............. <br>
+**Link of the project:** [World University Rankings 2016-2024](https://grigoriaangelou.github.io/World-University-Rankings-2016-2024/#) <br>
 **Code:** [world-university-rankings-2016-2024.ipynb](https://github.com/GrigoriaAngelou/World-University-Rankings-2016-2024/blob/c1639e242181bed7933dcb77992fc163d00a3c5d/world-university-rankings-2016-2024.ipynb) <br>
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib <br>
 **Tableau Vizzes:** [Which Universities are top in your Country?](https://public.tableau.com/views/WorldUniversityRank2016-2024/Dashboard2?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
