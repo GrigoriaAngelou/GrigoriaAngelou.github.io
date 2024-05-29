@@ -30,9 +30,9 @@ In addition, we created a dashboard using Tableau Public were we made a customer
 
 ### Profit Analysis for Beverages in USA for 2011
 
-**Description:** 
-**Link of the project:** [Profit Analysis for Beverages](https://grigoriaangelou.github.io/Profit-Analysis-for-Beverages-2011/)
-**Code:** [ales-analysis-with-4-styling-libraries.ipynb](https://github.com/GrigoriaAngelou/Profit-Analysis-for-Beverages-2011/blob/f6f755c146549de223426b2f251eb2e87406f160/sales-analysis-with-4-styling-libraries.ipynb)
+**Description:**  <br>
+**Link of the project:** [Profit Analysis for Beverages](https://grigoriaangelou.github.io/Profit-Analysis-for-Beverages-2011/) <br>
+**Code:** [sales-analysis-with-4-styling-libraries.ipynb](https://github.com/GrigoriaAngelou/Profit-Analysis-for-Beverages-2011/blob/f6f755c146549de223426b2f251eb2e87406f160/sales-analysis-with-4-styling-libraries.ipynb) <br>
 **Tableau Vizzes:** [Profit Analysis Dashboard](https://public.tableau.com/views/SalesDashboard_17092947330790/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 ### World University Rankings 2016-2024
