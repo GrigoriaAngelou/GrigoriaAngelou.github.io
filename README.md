@@ -30,7 +30,7 @@ In addition, we created a dashboard using Tableau Public were we made a customer
 
 ### Profit Analysis for Beverages in USA for 2011
 
-**Description:**  <br>
+**Description:** The dataset is from https://www.kaggle.com/datasets/. I used notebook Jupyter Notebook to get familiar with, clean the dataset and make 4 visualizations using 4 different libraries. I also created a tableau visualization using Tableau Public platform to make a dashboard for profit analysis. You can see the outcomes that derived from my analysis in my portfolio page.<br>
 **Link of the project:** [Profit Analysis for Beverages](https://grigoriaangelou.github.io/Profit-Analysis-for-Beverages-2011/) <br>
 **Code:** [sales-analysis-with-4-styling-libraries.ipynb](https://github.com/GrigoriaAngelou/Profit-Analysis-for-Beverages-2011/blob/f6f755c146549de223426b2f251eb2e87406f160/sales-analysis-with-4-styling-libraries.ipynb) <br>
 **Tableau Vizzes:** [Profit Analysis Dashboard](https://public.tableau.com/views/SalesDashboard_17092947330790/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
