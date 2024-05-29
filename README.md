@@ -12,13 +12,13 @@ In this section I will try to describe, as briefly as I can, the personal projec
 ### Online Shopping Analysis for 2019
 
 **Description:** The dataset that is used in this project is from https://www.kaggle.com/datasets and it has many information about customers transactions in an online shop. In our EDA we are answering questions like:
-<br>
+
 * How many female and male customers the shop has.
 * How many coupons are used for different discount types (10%, 20%, 30%).
 * How the average price performs for each month (max, min, mean and outliers.)
 * Which product is prefered from males/females.
 * How top 3 products of the shop perform for each month.
-<br>
+
 In general, we will try to derive online shopping trends and patterns for the customers that uses this platform to shop.
 <br>
 In addition, we created a dashboard using Tableau Public were we made a customer loyalty and a market basket analysis.
