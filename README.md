@@ -63,6 +63,15 @@ In addition, we created a dashboard using Tableau Public were we made a customer
 **Code:** [life expectancy dataset exploration.ipynb](https://github.com/GrigoriaAngelou/Global-and-Europian-Analysis-for-Life-expectancy/blob/main/life%20expectancy%20dataset%20exploration.ipynb) <br>
 **IBM Watson Studio visualization:** [Dashboard](https://eu-de.dataplatform.cloud.ibm.com/dashboards/e3e012c6-b7ca-47e9-960f-8f2d00174e19/view/6035a5640cb923f14dd4f2e407902c017d32705ee3bb840584d67b490f332097f06e1393c87d4b538c160d67f0bd430898)
 
+## Articles
+In this section of my portfolio I write about different subject around data analysis.
+
+### Customer Behavior Analysis Explained
+**Link of the article:** [Customer Behavior Analysis Explained](https://grigoriaangelou.github.io/Customer-Behavior-Analysis/)
+
+### What is a Data Pipeline and How Does it Work? 
+**Link of the article:** [What is a Data Pipeline and How Does it Work?](https://grigoriaangelou.github.io/What-is-Data-Pipelines/)
+
 ## Contact
 LinkedIn: www.linkedin.com/in/grigoria-angelou <br>
 E-mail: ritaaggelou@gmail.com
