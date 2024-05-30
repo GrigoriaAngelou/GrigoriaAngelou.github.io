@@ -72,6 +72,9 @@ In this section of my portfolio I write about different subject around data anal
 ### What is a Data Pipeline and How Does it Work? 
 **Link of the article:** [What is a Data Pipeline and How Does it Work?](https://grigoriaangelou.github.io/What-is-Data-Pipelines/)
 
+### Data Visualization Types with Examples
+**Link of the article:**
+
 ## Contact
 LinkedIn: www.linkedin.com/in/grigoria-angelou <br>
 E-mail: ritaaggelou@gmail.com
