@@ -9,7 +9,7 @@ This is a repository to showcase my skills, track my progress in Data Analysis a
 ## Portfolio Projects
 In this section I will try to describe, as briefly as I can, the personal projects that I am doing in order to learn and master new skills in Data Analysis.
 
-### Online Shopping Analysis for 2019
+### Customer Loyalty and Market Basket Analysis for 2019
 
 **Description:** The dataset that is used in this project is from https://www.kaggle.com/datasets and it has many information about customers transactions in an online shop. In our EDA we are answering questions like:
 
@@ -21,9 +21,9 @@ In this section I will try to describe, as briefly as I can, the personal projec
 
 In general, we will try to derive online shopping trends and patterns for the customers that uses this platform to shop.
 <br>
-In addition, we created a dashboard using Tableau Public were we made a customer loyalty and a market basket analysis.
+In addition, we created a dashboard using Tableau Public were we made a customer loyalty and a market basket analysis to check if old customers are happy or they are not satisfied enough to buy their product repeatedly.
 
-**Link of the project:** ........ </br>
+**Link of the project:** [Customer Loyalty and Market Basket Analysis for 2019](https://grigoriaangelou.github.io/Customer-Loyalty-and-Market-Basket-Analysis/) </br>
 **Code:** [sales analysis for Amazon products year 2019.ipynb](https://github.com/GrigoriaAngelou/Online-Shopping-Analysis-for-2019/blob/8ffb99dc835bc3044f91c487fb76b3dc9177bb99/online-shopping-eda-for-beginners.ipynb) </br>
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib </br>
 **Tableau Vizzes:** [Customer Behavior with Market Basket Analysis](https://public.tableau.com/views/CustomerBehaviorAnalysis_17162956112340/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
