@@ -80,4 +80,5 @@ In this section of my portfolio, I post about different subject around data anal
 
 ## Contact
 LinkedIn: www.linkedin.com/in/grigoria-angelou <br>
+Medium: https://medium.com/@ritaaggelou <br>
 E-mail: ritaaggelou@gmail.com
