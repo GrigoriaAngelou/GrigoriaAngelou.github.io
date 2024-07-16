@@ -64,13 +64,16 @@ In addition, we created a dashboard using Tableau Public were we made a customer
 **IBM Watson Studio visualization:** [Dashboard](https://eu-de.dataplatform.cloud.ibm.com/dashboards/e3e012c6-b7ca-47e9-960f-8f2d00174e19/view/6035a5640cb923f14dd4f2e407902c017d32705ee3bb840584d67b490f332097f06e1393c87d4b538c160d67f0bd430898)
 
 ## Articles
-In this section of my portfolio I write about different subject around data analysis.
+In this section of my portfolio, I post about different subject around data analysis, python and vizualizations that I write in Medium.com, you can check them out in the links below.
+
+### How to Write a Data Analysis Report: 8 Steps with Examples
+**Link of the article:** [Customer Behavior Analysis Explained](https://medium.com/@ritaaggelou/how-to-write-a-data-analysis-report-8-steps-with-examples-3a61194e7c07)
 
 ### Customer Behavior Analysis Explained
-**Link of the article:** [Customer Behavior Analysis Explained](https://grigoriaangelou.github.io/Customer-Behavior-Analysis/)
+**Link of the article:** [Customer Behavior Analysis Explained](https://medium.com/@ritaaggelou/customer-behavior-analysis-explained-73fb0885a148)
 
 ### What is a Data Pipeline and How Does it Work? 
-**Link of the article:** [What is a Data Pipeline and How Does it Work?](https://grigoriaangelou.github.io/What-is-Data-Pipelines/)
+**Link of the article:** [What is a Data Pipeline and How Does it Work?](https://medium.com/@ritaaggelou/what-is-a-data-pipeline-and-how-does-it-work-131f8b6e474c)
 
 ### Data Visualization Types with Examples
 **Link of the article:**
