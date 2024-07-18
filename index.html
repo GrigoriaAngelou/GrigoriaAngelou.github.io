@@ -95,7 +95,7 @@
 		
 		<script>
 		   // Javascript for article navigation
-			// let slideIndex = 1;
+			let slideIndex = 1;
 			showSlides(slideIndex);
 
                     // Next/previous controls
@@ -120,6 +120,7 @@
 			     
                          slides[slideIndex-1].style.display = "block";
                          dots[slideIndex-1].className += " active";}
+			 showSlides(slideIndex);
 		</script>
 	</head>
 	<body class="is-preload">
