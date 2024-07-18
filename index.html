@@ -95,7 +95,7 @@
 		
 		<script>
 		   // Javascript for article navigation
-			let slideIndex = 0;
+			let slideIndex = 1;
 			showSlides(slideIndex);
 
                     // Next/previous controls
@@ -120,9 +120,9 @@
 			     
                          slides[slideIndex-1].style.display = "block";
                          dots[slideIndex-1].className += " active";}
-			 showSlides(slideIndex);
 		</script>
 	</head>
+	
 	<body class="is-preload">
 
 		<!-- Header -->
@@ -645,6 +645,6 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
-
+                        <script> showSlides(slideIndex);</script>
 	</body>
 </html>
