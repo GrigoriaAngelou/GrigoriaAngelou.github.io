@@ -75,8 +75,11 @@ In this section of my portfolio, I post about different subject around data anal
 ### What is a Data Pipeline and How Does it Work? 
 **Link of the article:** [What is a Data Pipeline and How Does it Work?](https://medium.com/@ritaaggelou/what-is-a-data-pipeline-and-how-does-it-work-131f8b6e474c)
 
-### Data Visualization Types with Examples
-**Link of the article:**
+### How to Use Data Visualizations for Beginners Using Python
+**Link of the article:** [How to Use Data Visualizations for Beginners Using Python](https://medium.com/@ritaaggelou/api-based-web-scraping-using-python-bfab2dbcb14a)
+
+### API-Based Web Scraping Using Python
+**Link of the article:** [API-Based Web Scraping Using Python](https://medium.com/@ritaaggelou/api-based-web-scraping-using-python-bfab2dbcb14a)
 
 ## Contact
 LinkedIn: www.linkedin.com/in/grigoria-angelou <br>
